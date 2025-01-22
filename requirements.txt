@@ -1,0 +1,11 @@
+Python = 3.11.11
+Pandas
+NumPy
+Seaborn
+Scipy
+Matplotlib
+Scikit-Learn
+imblearn
+LightGBM
+XGBoost
+CatBoost
