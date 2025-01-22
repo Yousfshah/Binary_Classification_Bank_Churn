@@ -1,4 +1,4 @@
-Python = 3.11.11
+Python = 3.13.1
 Pandas
 NumPy
 Seaborn
@@ -6,6 +6,3 @@ Scipy
 Matplotlib
 Scikit-Learn
 imblearn
-LightGBM
-XGBoost
-CatBoost
